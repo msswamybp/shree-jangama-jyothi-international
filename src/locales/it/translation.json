@@ -1,0 +1,45 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "Chi siamo",
+    "products": "Prodotti",
+    "contact": "Contatto"
+  },
+  "footer": {
+    "privacyPolicy": "Informativa sulla privacy",
+    "termsConditions": "Termini e condizioni"
+  },
+  "homepage": {
+    "welcome": "Benvenuto nel nostro sito web",
+    "description": "Offriamo i migliori servizi per i nostri clienti."
+  },
+            "products":{
+    "ourProducts":"I nostri prodotti"
+   },
+      "aboutPage":{
+    "about":"Chi siamo",
+    "description":"Shree Jangama Jyothi International è un nome affidabile nei prodotti agricoli e nel commercio. Serviamo i clienti con onestà e qualità sin dalla nostra fondazione."
+   },
+  "form": {
+    "name": "Nome",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Invia"
+  },
+  "messages": {
+    "success": "Operazione completata con successo!",
+    "error": "Si è verificato un errore. Per favore riprova."
+  },
+  "buttons": {
+    "save": "Salva",
+    "cancel": "Annulla",
+    "delete": "Elimina"
+  },
+  "language": {
+    "selectLanguage": "Seleziona la lingua",
+    "english": "Inglese",
+    "hindi": "Hindi",
+    "french": "Francese",
+    "italian": "Italiano"
+  }
+}

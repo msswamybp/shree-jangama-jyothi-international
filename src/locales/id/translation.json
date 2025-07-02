@@ -1,0 +1,45 @@
+{
+  "header": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "products": "Produk",
+    "contact": "Kontak"
+  },
+  "footer": {
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsConditions": "Syarat & Ketentuan"
+  },
+  "homepage": {
+    "welcome": "Selamat datang di situs web kami",
+    "description": "Kami menyediakan layanan terbaik untuk pelanggan kami."
+  },
+          "products":{
+    "ourProducts":"Produk Kami"
+   },
+      "aboutPage":{
+    "about":"Tentang Kami",
+    "description":"Shree Jangama Jyothi International adalah nama terpercaya dalam produk pertanian dan perdagangan. Kami telah melayani pelanggan dengan kejujuran dan kualitas sejak berdiri."
+   },
+  "form": {
+    "name": "Nama",
+    "email": "Email",
+    "password": "Kata Sandi",
+    "submit": "Kirim"
+  },
+  "messages": {
+    "success": "Operasi berhasil diselesaikan!",
+    "error": "Terjadi kesalahan. Silakan coba lagi."
+  },
+  "buttons": {
+    "save": "Simpan",
+    "cancel": "Batal",
+    "delete": "Hapus"
+  },
+  "language": {
+    "selectLanguage": "Pilih Bahasa",
+    "english": "Inggris",
+    "hindi": "Hindi",
+    "french": "Perancis",
+    "indonesian": "Indonesia"
+  }
+}

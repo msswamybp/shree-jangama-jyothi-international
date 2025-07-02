@@ -1,0 +1,44 @@
+{
+  "header": {
+    "home": "ホーム",
+    "about": "約",
+    "products": "製品",
+    "contact": "お問い合わせ"
+  },
+  "footer": {
+    "privacyPolicy": "プライバシーポリシー",
+    "termsConditions": "利用規約"
+  },
+  "homepage": {
+    "welcome": "Shree Jangama Jyothi Internationalへようこそ",
+    "description": "私たちはお客様に最高のサービスを提供しています。"
+  },
+              "products":{
+    "ourProducts":"私たちの製品"
+   },
+      "aboutPage":{
+    "about":"私たちについて",
+    "description":"Shree Jangama Jyothi Internationalは農産物と貿易で信頼されている名前です。私たちは創業以来、誠実さと品質でお客様にサービスを提供しています。"
+   },
+  "form": {
+    "name": "名前",
+    "email": "メール",
+    "password": "パスワード",
+    "submit": "送信"
+  },
+  "messages": {
+    "success": "操作が正常に完了しました！",
+    "error": "エラーが発生しました。もう一度お試しください。"
+  },
+  "buttons": {
+    "save": "保存",
+    "cancel": "キャンセル",
+    "delete": "削除"
+  },
+  "language": {
+    "selectLanguage": "言語を選択",
+    "english": "英語",
+    "hindi": "ヒンディー語",
+    "french": "フランス語"
+  }
+}
