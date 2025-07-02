@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shree-jangama-jyothi-international/static/css/main.e6c13ad2.css",
+    "main.js": "/shree-jangama-jyothi-international/static/js/main.74e515a1.js",
+    "static/js/453.fc46686e.chunk.js": "/shree-jangama-jyothi-international/static/js/453.fc46686e.chunk.js",
+    "index.html": "/shree-jangama-jyothi-international/index.html",
+    "main.e6c13ad2.css.map": "/shree-jangama-jyothi-international/static/css/main.e6c13ad2.css.map",
+    "main.74e515a1.js.map": "/shree-jangama-jyothi-international/static/js/main.74e515a1.js.map",
+    "453.fc46686e.chunk.js.map": "/shree-jangama-jyothi-international/static/js/453.fc46686e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.74e515a1.js"
+  ]
+}
