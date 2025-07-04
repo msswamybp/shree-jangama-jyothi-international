@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/shree-jangama-jyothi-international/static/css/main.e6c13ad2.css",
-    "main.js": "/shree-jangama-jyothi-international/static/js/main.74e515a1.js",
+    "main.css": "/shree-jangama-jyothi-international/static/css/main.7cf005ba.css",
+    "main.js": "/shree-jangama-jyothi-international/static/js/main.fe895f04.js",
     "static/js/453.fc46686e.chunk.js": "/shree-jangama-jyothi-international/static/js/453.fc46686e.chunk.js",
+    "static/media/turmeric-powder.jpg": "/shree-jangama-jyothi-international/static/media/turmeric-powder.866ccce566a33fbaed76.jpg",
+    "static/media/huskareaca.png": "/shree-jangama-jyothi-international/static/media/huskareaca.250df8b9e84f6d34268c.png",
+    "static/media/red areca.jpeg": "/shree-jangama-jyothi-international/static/media/red areca.a2ba0dad61dff6a43f1e.jpeg",
+    "static/media/cut areaca.jpeg": "/shree-jangama-jyothi-international/static/media/cut areaca.9d3ef92dd9029a6c14b8.jpeg",
+    "static/media/red_chillipowder.jpeg": "/shree-jangama-jyothi-international/static/media/red_chillipowder.e07fd9be5c50ddd06fa7.jpeg",
+    "static/media/areca.jpg": "/shree-jangama-jyothi-international/static/media/areca.224fcbc811fd12faef4e.jpg",
+    "static/media/red_chilli.jpg": "/shree-jangama-jyothi-international/static/media/red_chilli.6524753196afdf35be90.jpg",
+    "static/media/onion-red.jpg": "/shree-jangama-jyothi-international/static/media/onion-red.9fcb54bea12d6496b30f.jpg",
     "index.html": "/shree-jangama-jyothi-international/index.html",
-    "main.e6c13ad2.css.map": "/shree-jangama-jyothi-international/static/css/main.e6c13ad2.css.map",
-    "main.74e515a1.js.map": "/shree-jangama-jyothi-international/static/js/main.74e515a1.js.map",
+    "main.7cf005ba.css.map": "/shree-jangama-jyothi-international/static/css/main.7cf005ba.css.map",
+    "main.fe895f04.js.map": "/shree-jangama-jyothi-international/static/js/main.fe895f04.js.map",
     "453.fc46686e.chunk.js.map": "/shree-jangama-jyothi-international/static/js/453.fc46686e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.74e515a1.js"
+    "static/css/main.7cf005ba.css",
+    "static/js/main.fe895f04.js"
   ]
 }
