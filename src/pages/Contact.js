@@ -1,6 +1,6 @@
 function Contact() {
   return (
-    <div className="page">
+    <div className="page" style={{margin:'20px'}}>
       <h2>Contact Us</h2>
       <form className="contact-form">
         <input type="text" placeholder="Your Name" required />
