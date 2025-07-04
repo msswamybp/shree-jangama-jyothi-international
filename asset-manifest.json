@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/shree-jangama-jyothi-international/static/css/main.7cf005ba.css",
-    "main.js": "/shree-jangama-jyothi-international/static/js/main.fe895f04.js",
+    "main.css": "/shree-jangama-jyothi-international/static/css/main.107dd46f.css",
+    "main.js": "/shree-jangama-jyothi-international/static/js/main.01c5c0ba.js",
     "static/js/453.fc46686e.chunk.js": "/shree-jangama-jyothi-international/static/js/453.fc46686e.chunk.js",
     "static/media/turmeric-powder.jpg": "/shree-jangama-jyothi-international/static/media/turmeric-powder.866ccce566a33fbaed76.jpg",
     "static/media/huskareaca.png": "/shree-jangama-jyothi-international/static/media/huskareaca.250df8b9e84f6d34268c.png",
@@ -10,14 +10,15 @@
     "static/media/red_chillipowder.jpeg": "/shree-jangama-jyothi-international/static/media/red_chillipowder.e07fd9be5c50ddd06fa7.jpeg",
     "static/media/areca.jpg": "/shree-jangama-jyothi-international/static/media/areca.224fcbc811fd12faef4e.jpg",
     "static/media/red_chilli.jpg": "/shree-jangama-jyothi-international/static/media/red_chilli.6524753196afdf35be90.jpg",
+    "static/media/sree logo.jpg": "/shree-jangama-jyothi-international/static/media/sree logo.e52319b649201813d8f7.jpg",
     "static/media/onion-red.jpg": "/shree-jangama-jyothi-international/static/media/onion-red.9fcb54bea12d6496b30f.jpg",
     "index.html": "/shree-jangama-jyothi-international/index.html",
-    "main.7cf005ba.css.map": "/shree-jangama-jyothi-international/static/css/main.7cf005ba.css.map",
-    "main.fe895f04.js.map": "/shree-jangama-jyothi-international/static/js/main.fe895f04.js.map",
+    "main.107dd46f.css.map": "/shree-jangama-jyothi-international/static/css/main.107dd46f.css.map",
+    "main.01c5c0ba.js.map": "/shree-jangama-jyothi-international/static/js/main.01c5c0ba.js.map",
     "453.fc46686e.chunk.js.map": "/shree-jangama-jyothi-international/static/js/453.fc46686e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cf005ba.css",
-    "static/js/main.fe895f04.js"
+    "static/css/main.107dd46f.css",
+    "static/js/main.01c5c0ba.js"
   ]
 }
