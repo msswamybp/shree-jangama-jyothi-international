@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './Header.css'; // <-- Custom CSS
 import { useTranslation } from 'react-i18next';
 import { NavLink } from 'react-router-dom';
+import logo from '../assets/sree logo.jpg'
 
 function Header() {
   const { t, i18n } = useTranslation();
@@ -18,7 +19,7 @@ function Header() {
       <div className="header-container">
         {/* Logo */}
         <div className="logo">
-          <img src="/assets/images/logo.png" alt="sjj Logo" />
+          <img src={logo} alt="sjj Logo" />
         </div>
 
         {/* Desktop & Mobile Nav */}

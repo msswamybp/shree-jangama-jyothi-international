@@ -1,5 +1,5 @@
 import React from 'react';
-
+import logo from '../assets/sree logo.jpg'
 function Footer() {
   return (
     <footer style={styles.footer}>
@@ -7,7 +7,7 @@ function Footer() {
         {/* Left: Logo */}
         <div style={styles.column}>
           <img
-            src="/assets/images/logo.png" // <-- Replace with your logo path
+            src={logo} // <-- Replace with your logo path
             alt=" Logo"
             style={styles.logo}
           />
@@ -60,7 +60,7 @@ const styles = {
     margin: '10px'
   },
   logo: {
-    height: '60px',
+    height: '160px',
     marginBottom: '10px'
   },
   heading: {
