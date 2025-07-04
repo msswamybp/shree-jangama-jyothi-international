@@ -18,9 +18,9 @@ function Footer() {
           <h4 style={styles.heading}>USEFUL LINKS</h4>
           <ul style={styles.list}>
             <li><a href="/" style={styles.link}>Home</a></li>
-            <li><a href="/about-us" style={styles.link}>About Us</a></li>
+            <li><a href="/about" style={styles.link}>About Us</a></li>
             <li><a href="/products" style={styles.link}>Products</a></li>
-            <li><a href="/contact-us" style={styles.link}>Contact Us</a></li>
+            <li><a href="/contact" style={styles.link}>Contact Us</a></li>
           </ul>
         </div>
 

@@ -7,10 +7,6 @@ import { products } from '../constants/constant';
 function Products() {
   return (
     <div>
-      {/* Banner */}
-      <div style={styles.banner}>
-        <h1 style={styles.bannerText}>Products</h1>
-      </div>
 
       {/* Section Title */}
       <section style={styles.section}>

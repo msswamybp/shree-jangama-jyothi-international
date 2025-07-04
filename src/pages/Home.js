@@ -9,7 +9,7 @@ function Home() {
   return (
     <>
     <div style={{ margin: "20px" }}>
-      <section className="banner">
+      <section className="banner" style={{marginBottom:'40px'}}>
         <h1>{t("homepage.welcome")}</h1>
         <p>{t("homepage.description")}</p>
       </section>
